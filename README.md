@@ -14,11 +14,12 @@
 <div align="center">
   <sup>1</sup>  CSIR-Central Electronics Engineering Research Institute, Pilani, Rajasthan 333031, India.<br>
   <a href="https://link.springer.com/article/10.1007/s10921-019-0601-x">[Paper]</a><br>
-    <a href="https://youtu.be/mekb40luapE">[Demo]</a>....CHANGE THIS
 </div>
 </p>
 
-![teaser](images/teaser.png)
+![](https://github.com/Moushumi9medhi/STRUCTURAL-HEALTH-MONITORING-SHM-/blob/main/teaser/test1024-08-07-16-37-15.gif)
+
+
 
 [![Full Demo](https://img.shields.io/badge/Full%20Demo-YouTube-b31b1b)](https://youtu.be/mekb40luapE)
 
